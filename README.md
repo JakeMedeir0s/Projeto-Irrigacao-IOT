@@ -23,8 +23,3 @@
 
 * Apresentar os experimentos ou testes executados. 
 * Explicar os resultados. 
-
-## Links dos códigos testes para web
-
-* https://wokwi.com/projects/322577683855704658
-* https://replit.com/@luiz-felipef116/serverdominepirata#index.js

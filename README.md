@@ -145,7 +145,7 @@ while True:
 
   - Pode-se observar o circuito do esp32 com o sensor DHT22 e um led que liga quando a irrigação está ligada.
 
-## Links dos códigos testes para web
+## Links dos códigos do wokwi e do desenvolvimento web
 
 * https://wokwi.com/projects/322577683855704658
 * https://replit.com/@luiz-felipef116/serverdominepirata#index.js

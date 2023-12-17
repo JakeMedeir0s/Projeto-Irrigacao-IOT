@@ -1,4 +1,4 @@
-# Projeto Sistema de Irrigacao Automatizado - IOT
+# Projeto Sistema de Irrigação Automático - IOT
 
 ## Introdução
 

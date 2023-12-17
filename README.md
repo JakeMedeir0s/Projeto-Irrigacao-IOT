@@ -137,7 +137,7 @@ while True:
 * Também foi realizado experimento utilizando a plataforma wokwi e apenas a lógica do sistema de irrigação com o sensor de temperatura DHT22.
 
   <div align="center">
-    <img src="assets/resultado3.jpg"  width="275" height="200"/>
+    <img src="assets/resultado3.jpg"/>
   </div>
 
   - Pode-se observar o circuito do esp32 com o sensor DHT22 e um led que liga quando a irrigação está ligada.

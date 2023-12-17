@@ -152,7 +152,7 @@ while True:
 
 ## Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134668480?v=4" width=115><br><sub>Josefa Jakelyne</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/122581304?v=4" width=115><br><sub>Ludimila Kelly</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/154027469?v=4" width=115><br><sub>Luiz Felipe</sub>](https://github.com/alexfelipe) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/<username>" width=115><br><sub>Luiz Henrique</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134668480?v=4" width=115><br><sub>Josefa Jakelyne</sub>](https://github.com/JakeMedeir0s) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/122581304?v=4" width=115><br><sub>Ludimila Kelly</sub>](https://github.com/ludimilamoura) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/154027469?v=4" width=115><br><sub>Luiz Felipe</sub>](https://github.com/NecasDePitibiriba) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/<username>" width=115><br><sub>Luiz Henrique</sub>](https://github.com/NecasDePitibiriba) |
 | :---: | :---: | :---: | :---: |
 
 ## Referências

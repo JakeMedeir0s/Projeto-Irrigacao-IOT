@@ -1,7 +1,4 @@
 # Projeto Sistema de Irrigação Automático - IOT
-<p align="center">
-<img src="https://img.shields.io/github/contributors/JakeMedeir0s/Projeto-Irrigacao-IOT"/>
-</p>
 
 ## Introdução
 
@@ -152,6 +149,11 @@ while True:
 
 * https://wokwi.com/projects/322577683855704658
 * https://replit.com/@luiz-felipef116/serverdominepirata#index.js
+
+## Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/<JakeMedeir0s>" width=115><br><sub>Josefa Jakelyne</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/<ludimilamoura>" width=115><br><sub>Ludimila Kelly</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/<NecasDePitibiriba>" width=115><br><sub>Luiz Felipe</sub>](https://github.com/alexfelipe) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/<username>" width=115><br><sub>Luiz Henrique</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: | :---: |
 
 ## Referências
 

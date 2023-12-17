@@ -46,7 +46,7 @@
 * Abaixo encontra-se o prototipo finalizado
 
 <div align="center">
-    <img src="assets/prototipo.jpg"/>
+    <img src="assets/prototipo.jpg" width="500" height="666"/>
 </div>
 
 ## Ligações

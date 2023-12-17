@@ -33,17 +33,17 @@
 * Abaixo encontra-se a imagem do circuito pronto do sistema de irrigação com o esp32
 
 <div align="center">
-    <img src="circuito-completo.jpg"  width="275" height="200"/>
+    <img src="assets/circuito-completo.jpg"  width="275" height="200"/>
     <>
-    <img src="ampliado_esp"  width="275" height="200"/>
+    <img src="assets/ampliado_esp.jpg"  width="275" height="200"/>
     <>
-    <img src="ampliado_sensor.jpg"  width="275" height="200"/>
+    <img src="assets/ampliado_sensor.jpg"  width="275" height="200"/>
 </div>
 
 * Abaixo encontra-se o prototipo finalizado
 
 <div align="center">
-    <img src="prototipo.jpg"  width="275" height="200"/>
+    <img src="assets/prototipo.jpg"  width="275" height="200"/>
 </div>
 
 ## Ligações
@@ -123,13 +123,13 @@ while True:
 * Foram realizados testes para o código do sistema de irrigação e abaixo pode-se encontrar a imagem dos resultados obtidos: 
 
   <div align="center">
-    <img src="resultado1.jpg"  width="275" height="200"/>
+    <img src="assets/resultado1.jpg"  width="275" height="200"/>
   </div>
 
   - A imagem acima mostra o resultado do teste do código do sistema de irrigação, podemos ver as leituras quando o sensor estava fora do solo e quando foi adicionado ao solo.
 
   <div align="center">
-    <img src="resultado2.jpg"  width="275" height="200"/>
+    <img src="assets/resultado2.jpg"  width="275" height="200"/>
   </div>
 
   - A imagem acima mostra o resultado de outro teste do código do sistema de irrigação, podemos ver as leituras quando o sensor estava dentro do solo e quando foi retirado ao solo.
@@ -137,7 +137,7 @@ while True:
 * Também foi realizado experimento utilizando a plataforma wokwi e apenas a lógica do sistema de irrigação com o sensor de temperatura DHT22.
 
   <div align="center">
-    <img src="resultado3.jpg"  width="275" height="200"/>
+    <img src="assets/resultado3.jpg"  width="275" height="200"/>
   </div>
 
   - Pode-se observar o circuito do esp32 com o sensor DHT22 e um led que liga quando a irrigação está ligada.

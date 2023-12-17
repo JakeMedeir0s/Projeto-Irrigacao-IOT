@@ -34,10 +34,13 @@
 
 <div align="center">
     <img src="assets/circuito-completo.jpg" width="500" height="375"/>
-    <>
+</div>
+
+<div align="center">
     <img src="assets/ampliado_esp.jpg" width="500" height="375"/>
-    <>
-    <img src="assets/ampliado_sensor.jpg" width="500" height="375"/>
+</div>
+<div align="center">
+  <img src="assets/ampliado_sensor.jpg" width="500" height="375"/>
 </div>
 
 * Abaixo encontra-se o prototipo finalizado

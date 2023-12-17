@@ -1,4 +1,7 @@
 # Projeto Sistema de Irrigação Automático - IOT
+<p align="center">
+<img src="https://img.shields.io/github/contributors/JakeMedeir0s/Projeto-Irrigacao-IOT"/>
+</p>
 
 ## Introdução
 
